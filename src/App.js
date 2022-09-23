@@ -72,6 +72,7 @@ const toggleRemainder = (id) =>{
 
 }
   return (
+    
     //this is a div that is essential to display the html given in the below div to the index.html
     <div className='container'>
       {/* 1) <Header /> is used to retrieve the data from the Header.js file under the <Header> tag in that file  */}
